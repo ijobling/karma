@@ -1,4 +1,4 @@
-[Codio] is a web-based cloud integrated development environment that supports almost any programming language. Every project gets its own Box: an instantly available server-side development environment with full terminal access. Unlimited panels and tabs, and a plethora of productivity features. 
+[Codio] is  a web-based cloud integrated development environment that supports almost any programming language. Every project gets its own Box: an instantly available server-side development environment with full terminal access. Unlimited panels and tabs, and a plethora of productivity features. 
 
 ##Customize your Codio Project
 
