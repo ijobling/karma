@@ -1,0 +1,8 @@
+{
+  "bugtracking": false,
+  "logRESTRequests": false,
+  "authentication": true,
+  "users": {
+    "ian": "qqqqqq"
+  }
+}
